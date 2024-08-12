@@ -1,3 +1,2 @@
 nginx:1.20
-busybox 1.36
-rockylinux 9
+rockylinux:9
