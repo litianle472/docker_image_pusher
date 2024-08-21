@@ -1,1 +1,3 @@
-httpd:latest
+nginx:1.24
+php:latest
+
