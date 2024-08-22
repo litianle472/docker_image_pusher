@@ -1,1 +1,1 @@
-php:latest-fpm
+centos:9
