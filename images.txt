@@ -1,2 +1,2 @@
-rockylinux:9
+prom/alertmanager:v0.27.0
 
