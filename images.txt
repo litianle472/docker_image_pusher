@@ -1,5 +1,1 @@
-busybox
-centos:7
-rockylinux:9
-rockylinux:9.1
-nginx
+cadvisor：v0.49.0
